@@ -1,0 +1,14 @@
+{
+  "name": "schoe-taniumclient",
+  "version": "0.1.0",
+  "author": "schoe",
+  "summary": "Module to install the tanium client agent software",
+  "license": "Apache-2.0",
+  "source": "https://github.com/joelschoenberg/schoe-taniumclient",
+  "project_page": "https://github.com/joelschoenberg/schoe-taniumclient",
+  "issues_url": "https://github.com/joelschoenberg/schoe-taniumclient/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
